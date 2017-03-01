@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_8f4a657f012417306353566124b3523b7140d74c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_f5aae1bbbe5fe66cf72d986ef80efd402f7cd066\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c83fbde55c05bc186002d7ce3570d619c3d6ee1f">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-25.1.0_f712d170f41051fdd57644291bd9229fa6eb29fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0716e4c5a73fe72b5438db14232154afafcf7f41">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c63ec3f76b4b2da200233b8d4eb9f33c2d560996\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_85a03e1390263ebe05cfdb1277f33f32aa96fce1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_70e9a1a3bc4f16bca0931b2d749326c06fcd880c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\exploded-aar\com.noisepages.nettoyeur\midi\1.0.0-rc1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.noisepages.nettoyeur-midi-1.0.0-rc1_135923d62bfdcae75150575d04ca97411932835e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_fd90f8c219e93d4d116d8a0e075bb233d615e7ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_37224d97d4a3d63d25cfffbb86ce7a2a63ac03f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_0515652bccfa8de029decc39521b48e676143959\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f865bcc09bbab7cb02dc1d11f523601bc6dc518">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_16b590edf4ad9c2b7e4a38383474fc1a0282c19e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_8753939b8868c4fde1d63070f3d8a6822102b9ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_54548986407119a48e9a82e8f1ec0961a74bff5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_baf8db1e8206caf744bf82b892d7f8d978bddcba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_56425491cd75c8fb4e3f1746a68fcbd66ee3437b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_ad8363661caab75a2a0e6345895ce16cba426292\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_1e194c0891c28e985851c9502d2e4117f43d2413\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\exploded-aar\org.puredata.android\pd-core\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="C:\Users\leonf_000\Documents\leonForristal_Week5_HW\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.puredata.android-pd-core-1.0.2_a6bd65207f045966ebd17c2ff5422319a2d1285d\classes.dex" />
+    </item>
+
+</items>
